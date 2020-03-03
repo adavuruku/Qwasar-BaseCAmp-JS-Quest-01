@@ -1,3 +1,4 @@
+'use strict'
 function my_array_alphabet(){
     let alpha = []
     for(let i = 97; i <= 122; i++)
