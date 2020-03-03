@@ -6,3 +6,5 @@ function my_array_unique(integer_array){
     })
     return k
 }
+
+console.log(my_array_unique([]));

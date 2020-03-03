@@ -6,3 +6,5 @@ function my_count_on_it(string_aray){
     },[])
     return sad
 }
+console.log(my_count_on_it([]));
+
